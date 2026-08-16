@@ -66,8 +66,8 @@ The dashboard tracks:
 * Sales trends over time
 * Month-over-month performance
 
-For example, the dashboard reports approximately $157 in total sales, 33k orders, and 48k units sold across the month of May 2023.
-
+For example, the dashboard reports approximately $157k in total sales, 33k orders, and 48k units sold across the month of May 2023.
+![Coffee Shop Sales Analysis](screenshots/Coffee Shop Sales May 2023.png)
 ---
 
 ## 📈 Sales Analysis
