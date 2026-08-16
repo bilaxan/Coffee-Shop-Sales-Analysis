@@ -68,7 +68,8 @@ The dashboard tracks:
 
 For example, the dashboard reports approximately $157k in total sales, 33k orders, and 48k units sold across the month of May 2023.
 
----
+<img width="2068" height="1258" alt="Image" src="https://github.com/user-attachments/assets/955117b4-0551-4773-b895-9dea6aefdc1e" />
+
 
 ## 📈 Sales Analysis
 
